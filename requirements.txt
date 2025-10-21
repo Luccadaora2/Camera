@@ -1,8 +1,10 @@
 flask
 gunicorn
-deepface==0.0.79
+deepface==0.0.75
 opencv-python-headless
 numpy
 Pillow
 requests
-tensorflow==2.13.0
+tensorflow==2.12.0
+tf-keras
+retina-face==0.0.13
